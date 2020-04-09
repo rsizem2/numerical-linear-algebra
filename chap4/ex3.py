@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 
 
 # define 2x2 matrix
-X = np.array([[5,2],
-              [2,3]])
+X = np.array([[-2,11],
+              [-10,5]])
 
 U,S,V = np.linalg.svd(X)
 

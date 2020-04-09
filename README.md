@@ -1,7 +1,3 @@
-# What?
+# README
 
-My solution scripts for various exercises in Trefethen &amp; Bau's 'Numerical Linear Algebra'. 
-
-# Why?
-
-Although the book is written for use with MATLAB, I wanted to do the solutions using Python libraries. This is just an excuse to keep my linear algebra skills fresh and practice using python libraries.
+This repository contains my solution scripts for the various programmming exercises in Trefethen &amp; Bau's 'Numerical Linear Algebra'. The book is written for use with MATLAB, but I wanted to do use Python libraries.
