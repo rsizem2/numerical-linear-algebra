@@ -49,6 +49,6 @@ y = map(max_error, x)
 
 plt.plot(list(x),list(y))
 plt.xlabel("Grid Size (2^x ticks)")
-plt.ylabel("Absolute Error")
+plt.ylabel("Max of Absolute Error")
 plt.show()
 
